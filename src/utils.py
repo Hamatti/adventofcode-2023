@@ -16,7 +16,7 @@ def read_input(day, transformer=str, example=False):
         else:
             filename = f'day_{day}.txt'
         with open(os.path.join('..', 'inputs', filename)) as input_file:
-            return [transformer(line) for line in input_file]
+            return [transformer(line.strip()) for line in input_file]
     except FileNotFoundError as e:
         print(e)
         sys.exit(1)
