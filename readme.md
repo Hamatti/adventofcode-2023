@@ -9,6 +9,7 @@ Santa and the elves need our help again. [Advent of Code](https://adventofcode.c
 _If you're on mobile, you can find these in HTML form at [hamatti.org/adventofcode/2023](https://hamatti.org/adventofcode/2023)_
 
 - [Day 1](src/day_1.ipynb): ⭐️⭐️
+- [Day 2](src/day_2.ipynb): ⭐️⭐️
 
 ## Jupyter Notebook
 
