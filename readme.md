@@ -17,6 +17,7 @@ _If you're on mobile, you can find these in HTML form at [hamatti.org/adventofco
 - [Day 7](src/day_7.ipynb): ⭐️⭐️
 - [Day 8](src/day_8.ipynb): ⭐️⭐️
 - [Day 9](src/day_9.ipynb): ⭐️⭐️
+- [Day 10](src/day_10.ipynb): ⭐️⭐️
   
 
 ## Jupyter Notebook
