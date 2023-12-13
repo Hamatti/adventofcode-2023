@@ -1,5 +1,6 @@
 import os
 import sys
+from itertools import cycle
 
 def read_input(day, transformer=str, example=False):
     """
@@ -37,7 +38,7 @@ def read_multisection_input(day, transformers=None, example=False):
             filename = f'day_{day}.txt'
         with open(os.path.join('..', 'inputs', filename)) as input_file:
             sections = input_file.read().split('\n\n')
-            return [transformer(section) for section, transformer in zip(sections, transformers)]
+            return [transformer(section) for section, transformer in zip(sections, cycle(transformers))]
     except FileNotFoundError as e:
         print(e)
         sys.exit(1)
