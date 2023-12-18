@@ -24,6 +24,9 @@ _If you're on mobile, you can find these in HTML form at [hamatti.org/adventofco
 - [Day 14](src/day_14.ipynb): ⭐️⭐️
 - [Day 15](src/day_15.ipynb): ⭐️⭐️
 - [Day 16](src/day_16.ipynb): ⭐️⭐️
+- [Day 17]():
+- [Day 18](src/day_18.ipynb): ⭐️⭐️
+
   
 
 ## Jupyter Notebook
