@@ -26,6 +26,7 @@ _If you're on mobile, you can find these in HTML form at [hamatti.org/adventofco
 - [Day 16](src/day_16.ipynb): ⭐️⭐️
 - [Day 17]():
 - [Day 18](src/day_18.ipynb): ⭐️⭐️
+- [Day 19](src/day_19.ipynb): ⭐️
 
   
 
